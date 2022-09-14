@@ -33,13 +33,13 @@ Not everything is properly tested due time, but its perfectly possible to do it 
 ### Screenshots
 
 <span>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/1.png" width=300px/>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/2.png" width=300px/>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/3.png" width=300px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/1.png" width=250px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/2.png" width=250px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/3.png" width=250px/>
 </span>
 
 <span>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/4.png" width=300px/>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/5.png" width=300px/>
-  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/6.png" width=300px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/4.png" width=250px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/5.png" width=250px/>
+  <img src="https://raw.githubusercontent.com/pedrolemoz/weather_track/master/assets/6.png" width=250px/>
 </span>
